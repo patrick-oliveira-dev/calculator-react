@@ -1,2 +1,10 @@
-# calculator-react
-Calculadora com react e styled components criada no desafio de código da DIO.
+# Calculadora criada com React e Styled Components
+
+## Pré requisitos
+node 14+
+
+## Instalação
+npm install
+
+## Execução em ambiente de Dev
+npm run start
